@@ -11,6 +11,8 @@
 📍 Tenho 18 anos e moro em Curitiba, Paraná – Brasil 🇧🇷  
 🗣️ Fluente em Português - Inglês e Espanhol Intermediário
 
+📊 Bizagi Modeler para mapeamento de processos de negócio no padrão BPMN
+
 📄 Conhecimento em Microsoft Office (Word, Excel, PowerPoint, Outlook)
 
 [![Email](https://img.shields.io/badge/Email-afonsobplentz@gmail.com-red)](mailto:afonsobplentz@gmail.com)
@@ -22,7 +24,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de Engenharia de Software na PUC-PR, atualmente no 1º período da graduação. Tenho 18 anos, tenho domínio do pacote Microsoft Office (Word, Excel, PowerPoint, Outlook) e conhecimento intermediário em inglês e espanhol.
+Sou estudante de Engenharia de Software na PUC-PR, atualmente no 1º período da graduação. Tenho 18 anos, tenho domínio do pacote Microsoft Office (Word, Excel, PowerPoint, Outlook) e Bizagi Modeler, com conhecimento intermediário em inglês e espanhol.
 
 💡 Tenho grande interesse por tecnologia, especialmente nas áreas de **programação** e **desenvolvimento de Sites**.  
 🎯 Estou à procura da minha primeira oportunidade como **estagiário**, com o objetivo de iniciar minha carreira profissional e aplicar meus conhecimentos na prática.
