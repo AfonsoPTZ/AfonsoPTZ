@@ -7,7 +7,7 @@
     Afonso Braga Plentz
   </h1>
 
-🎓 Estudante de Engenharia de Software | PUC-PR – 1º período  
+🎓 Estudante de Engenharia de Software | PUCPR – 1º período  
 📍 Tenho 18 anos e moro em Curitiba, Paraná – Brasil 🇧🇷  
 🗣️ Fluente em Português - Inglês e Espanhol Intermediário
 
