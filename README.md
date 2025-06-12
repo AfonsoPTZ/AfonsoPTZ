@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNwbm12MXNxaGV0NmgzNHl4NmdmMGd1ZjVpbjd4eml4YWJ5bnN2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/658aOsBU5YXIU24Cvn/giphy.gif" alt="MasterHead" />
+  <img src="https://private-user-images.githubusercontent.com/211001372/454390043-ff49ae60-849a-49c9-a93d-900d1b992e42.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk3MzA5NjAsIm5iZiI6MTc0OTczMDY2MCwicGF0aCI6Ii8yMTEwMDEzNzIvNDU0MzkwMDQzLWZmNDlhZTYwLTg0OWEtNDljOS1hOTNkLTkwMGQxYjk5MmU0Mi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxMlQxMjE3NDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMzUxYjEzNWZmYjg1YTE4NGVlYTViYTRiZjc5Yjg4YjQ2NzA1MTU0YzdkM2Q4M2M5YjhjMjkwODJiZDcyMmQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.YNWxSuZId882HScCN-QtiJuaSIIrJSnQc1GY04pMLrg" alt="MasterHead" width="600" height="400"/>
 
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
