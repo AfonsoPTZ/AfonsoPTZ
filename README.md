@@ -96,8 +96,8 @@ Principais Competências:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfonsoPTZ&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoPTZ&layout=compact&theme=tokyonight&cache_seconds=1800" width="51%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AfonsoPTZ&show_icons=true&theme=tokyonight&cache_seconds=1800" width="51%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoPTZ&layout=compact&theme=tokyonight&cache_seconds=1800" width="46%"/>
 </div>
 
 ---
