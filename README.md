@@ -53,7 +53,7 @@ Principais Competências:
 
 ---
 
-## 🧠 Tecnologias que estou aprendendo
+## 🧠 Minhas Tecnologias
 
 <div align="center">
 
@@ -97,8 +97,22 @@ Principais Competências:
 
 ## 📫 Contato
 
-- 📧 Afonsobplentz@gmail.com  
-- 📱 (41) 98830-9669 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/afonso-braga-plentz-385637351/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/SEU-USUARIO-AQUI" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:SEU-EMAIL-AQUI@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/SEU-USUARIO-AQUI/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+<a href="https://wa.me/5541988309669" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+</p>
 
 ---
