@@ -19,12 +19,14 @@
 [![Email](https://img.shields.io/badge/Email-afonsobplentz@gmail.com-red)](mailto:afonsobplentz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AfonsoPTZ-black?logo=github)](https://github.com/AfonsoPTZ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Afonso%20Braga%20Plentz-blue?logo=linkedin)](https://www.linkedin.com/in/afonso-braga-plentz-385637351/)  
+</div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-<img src="https://s4.ezgif.com/tmp/ezgif-480bd8644e6774.gif" alt="Linha Separadora" style="margin-bottom: -1000px;" style="margin-bottom: -1000px;">
+<div style=margin-bottom: 10px;">
+  
+## 👨‍💻 Sobre Mim
 
-
-## 👨‍💻 Sobre Mim 
 </div>
 <div align="justify">
 Sou estudante de Engenharia de Software na PUC-PR, atualmente no 1º período da graduação. Tenho 18 anos, com um forte histórico profissional em liderança e gestão de pessoas. Com uma carreira consolidada em hotelaria, onde atuei como Supervisor, desenvolvi competências de alto nível em planejamento, comunicação e resolução de problemas sob pressão.
