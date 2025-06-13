@@ -21,9 +21,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Afonso%20Braga%20Plentz-blue?logo=linkedin)](https://www.linkedin.com/in/afonso-braga-plentz-385637351/)  
 </div>
 
+---
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-<div style=margin-bottom: 10px;">
+<div style=margin-bottom: -5px;">
   
 ## 👨‍💻 Sobre Mim
 
@@ -53,6 +55,8 @@ Principais Competências:
 🎯 Estou à procura da minha primeira oportunidade como **estagiário**, com o objetivo de plicar meus conhecimentos na prática.<br>
 💡 Tenho grande interesse por tecnologia, especialmente nas áreas de **programação** e **desenvolvimento de Sites**.  
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ---
 
