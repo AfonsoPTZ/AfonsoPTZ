@@ -7,13 +7,9 @@
     Afonso Braga Plentz
   </h1>
 
-🎓 Estudante de Engenharia de Software | PUCPR – 1º período  
-📍 Tenho 18 anos e moro em Curitiba, Paraná – Brasil 🇧🇷  
-🗣️ Fluente em Português - Inglês e Espanhol Intermediário
-
-📊 Bizagi Modeler para mapeamento de processos de negócio no padrão BPMN
-
-📄 Conhecimento em Microsoft Office (Word, Excel, PowerPoint, Outlook)
+🎓 Estudante de Engenharia de Software | PUCPR – 1º período   
+📄 Conhecimento em Microsoft Office (Word, Excel, PowerPoint, Outlook)<br>
+📊 Bizagi Modeler para mapeamento de processos de negócio no padrão BPMN<br>
 
 [![Email](https://img.shields.io/badge/Email-afonsobplentz@gmail.com-red)](mailto:afonsobplentz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AfonsoPTZ-black?logo=github)](https://github.com/AfonsoPTZ)
@@ -23,18 +19,38 @@
 ---
 
 ## 👨‍💻 Sobre Mim
+</div>
+<div align="justify">
+Sou estudante de Engenharia de Software na PUC-PR, atualmente no 1º período da graduação. Tenho 18 anos, com um forte histórico profissional em liderança e gestão de pessoas. Com uma carreira consolidada em hotelaria, onde atuei como Supervisor, desenvolvi competências de alto nível em planejamento, comunicação e resolução de problemas sob pressão.
+<br>
+<br>
+Agora, direciono essa experiência para o universo da tecnologia, combinando minhas habilidades interpessoais com o conhecimento técnico que estou adquirindo na engenharia de software. Meu objetivo é contribuir para equipes que criam soluções eficientes, intuitivas e que realmente façam a diferença para o usuário.
+<br>
+<br>
+Principais Competências:
+<br>
+<br>
+🐍Python <br>
+🏷️HTML5 <br>
+🎨CSS <br>
+🌐Desenvolvimento Web <br>
+🖥️Desenvolvimento Front-End <br>
+⚙️Desenvolvimento Back-End <br>
+📊Microsoft Excel <br>
+📄Microsoft Word <br>
+📈Microsoft PowerPoint <br>
+🔀Bizagi Modeler <br>
+<br>
 
-Sou estudante de Engenharia de Software na PUC-PR, atualmente no 1º período da graduação. Tenho 18 anos, tenho domínio do pacote Microsoft Office (Word, Excel, PowerPoint, Outlook) e Bizagi Modeler, com conhecimento intermediário em inglês e espanhol.
-
+🎯 Estou à procura da minha primeira oportunidade como **estagiário**, com o objetivo de plicar meus conhecimentos na prática.<br>
 💡 Tenho grande interesse por tecnologia, especialmente nas áreas de **programação** e **desenvolvimento de Sites**.  
-🎯 Estou à procura da minha primeira oportunidade como **estagiário**, com o objetivo de iniciar minha carreira profissional e aplicar meus conhecimentos na prática.
-
----
+</div>
 
 ## 🧠 Tecnologias que estou aprendendo
 
 <div align="center">
 
+![Bizagi Modeler](https://img.shields.io/badge/Bizagi%20Modeler%20⚙️-F78F1E?style=for-the-badge&logo=bizagi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
