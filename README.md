@@ -12,7 +12,7 @@
 ---
 
 
-🎓 Estudante de Engenharia de Software | PUCPR – 1º período   
+🎓 Estudante de Engenharia de Software | PUCPR – 1º período<br>   
 📄 Conhecimento em Microsoft Office (Word, Excel, PowerPoint, Outlook)<br>
 📊 Bizagi Modeler para mapeamento de processos de negócio no padrão BPMN<br>
 
@@ -27,6 +27,7 @@
 
 <div style=margin-bottom: -5px;">
   
+
 ## 👨‍💻 Sobre Mim
 
 </div>
