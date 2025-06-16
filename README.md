@@ -93,6 +93,13 @@ Principais Competências:
 
 ---
 
+### 📂 Projetos
+
+| 📁 Projeto | 💡 Descrição | 🛠️ Tecnologias |
+| :--- | :--- | :--- |
+| **[Landucci Hair Studio](https://github.com/AfonsoPTZ/Site-Hair-Studio)** | Página web desenvolvida com HTML e CSS para um cliente real. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **[Sistema de Locadora](https://github.com/AfonsoPTZ/Sistema-Aluguel-Carros-Desktop)** | Aplicação desktop completa para gerenciamento de uma locadora de veículos. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-808080?style=for-the-badge) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
