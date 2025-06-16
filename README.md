@@ -1,24 +1,24 @@
 <div align="center">
 
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-    Hello World! I'm Afonso Braga Plentz
-  </h1>
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    Hello World! I'm Afonso Braga Plentz
+  </h1>
 
 ---
 
-  <img src="https://cdn-wcsm.alura.com.br/2025/04/imagem1-46.gif" alt="MasterHead" width="1000" height="500"/>
+  <img src="https://cdn-wcsm.alura.com.br/2025/04/imagem1-46.gif" alt="MasterHead" width="1000" height="500"/>
 
 ---
 
 
-🎓 Estudante de Engenharia de Software | PUCPR – 1º período   
+🎓 Estudante de Engenharia de Software | PUCPR – 1º período   
 📄 Conhecimento em Microsoft Office (Word, Excel, PowerPoint, Outlook)<br>
 📊 Bizagi Modeler para mapeamento de processos de negócio no padrão BPMN<br>
 
 [![Email](https://img.shields.io/badge/Email-afonsobplentz@gmail.com-red)](mailto:afonsobplentz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AfonsoPTZ-black?logo=github)](https://github.com/AfonsoPTZ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afonso%20Braga%20Plentz-blue?logo=linkedin)](https://www.linkedin.com/in/afonso-braga-plentz-385637351/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afonso%20Plentz-blue?logo=linkedin)](https://www.linkedin.com/in/afonsoplentz)  
 </div>
 
 ---
@@ -26,7 +26,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <div style=margin-bottom: -5px;">
-  
+  
 ## 👨‍💻 Sobre Mim
 
 </div>
@@ -53,7 +53,7 @@ Principais Competências:
 <br>
 
 🎯 Estou à procura da minha primeira oportunidade como **estagiário**, com o objetivo de plicar meus conhecimentos na prática.<br>
-💡 Tenho grande interesse por tecnologia, especialmente nas áreas de **programação** e **desenvolvimento de Sites**.  
+💡 Tenho grande interesse por tecnologia, especialmente nas áreas de **programação** e **desenvolvimento de Sites**.  
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
@@ -78,7 +78,7 @@ Principais Competências:
 
 ## 📚 Formação
 
-- 🎓 **PUC-PR** – Engenharia de Software | *Início: 2025 | 1º período (cursando)* 
+- 🎓 **PUC-PR** – Engenharia de Software | *Início: 2025 | 1º período (cursando)* 
 - 📘 **Cursos Complementares**
 - 🐍 Python do Básico ao Avançado – *Estudo Autônomo*
 - 🎮 Desenvolvimento de Sites – *Estudo Autônomo*
@@ -87,8 +87,8 @@ Principais Competências:
 
 ## 🌍 Idiomas
 
-- 🇪🇸 Espanhol — Intermediário  
-- 🇧🇷 Português — Nativo  
+- 🇪🇸 Espanhol — Intermediário  
+- 🇧🇷 Português — Nativo  
 - 🇺🇸 Inglês — Intermediário
 
 ---
@@ -106,8 +106,8 @@ Principais Competências:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfonsoPTZ&show_icons=true&theme=tokyonight&cache_seconds=1800" width="51%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoPTZ&layout=compact&theme=tokyonight&cache_seconds=1800" width="46%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AfonsoPTZ&show_icons=true&theme=tokyonight&cache_seconds=1800" width="51%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoPTZ&layout=compact&theme=tokyonight&cache_seconds=1800" width="46%"/>
 </div>
 
 ---
@@ -115,7 +115,7 @@ Principais Competências:
 ## 📫 Contato
 
 <div align="center">
-<a href="https://www.linkedin.com/in/afonso-braga-plentz-385637351/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://github.com/AfonsoPTZ" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=afonsobplentz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a><a href="https://www.instagram.com/afonsoplentz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a><a href="https://wa.me/5541988309669" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://www.linkedin.com/in/afonsoplentz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://github.com/AfonsoPTZ" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=afonsobplentz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a><a href="https://www.instagram.com/afonsoplentz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a><a href="https://wa.me/5541988309669" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </div>
 
 ---
