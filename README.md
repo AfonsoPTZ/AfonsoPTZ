@@ -27,19 +27,23 @@
 
 ## 👨‍💻 About Me
 
-Sou estudante de Engenharia de Software na PUC-PR, focado em desenvolvimento de aplicações web e construção de APIs.
+Sou estudante de Engenharia de Software na PUC-PR, apaixonado por tecnologia e desenvolvimento de aplicações web.
 
-Tenho experiência prática com **PHP e MySQL** no desenvolvimento do projeto acadêmico **OwlSchool**, onde trabalhei com organização de código, lógica de backend e manipulação de dados.
+Tenho experiência prática com **PHP e MySQL** através do projeto acadêmico **OwlSchool**, onde trabalhei com lógica de backend, manipulação de dados e organização de código.
 
-Atualmente, estou direcionando meus estudos para o ecossistema **JavaScript**, com foco em:
+Além da parte técnica, sou uma pessoa **comunicativa**, gosto de **trabalhar em equipe** e estou sempre buscando evoluir — tanto como desenvolvedor quanto como pessoa.
 
-- ⚙️ Node.js (backend e APIs)
-- ⚛️ React (frontend)
-- 🌐 HTTP e integração de APIs
-- ☁️ Cloud (AWS)
-- 🔄 Boas práticas de DevOps
+Atualmente, estou direcionando meus estudos para o ecossistema **JavaScript**, com foco em backend, frontend e boas práticas modernas de desenvolvimento.
 
-Meu objetivo é evoluir como desenvolvedor full stack e, no futuro, atuar também com infraestrutura e automação.
+---
+
+## 🚀 Current Focus
+
+- 📌 Desenvolvimento de APIs com Node.js
+- 📌 Integração entre frontend (React) e backend
+- 📌 Boas práticas de versionamento com Git
+- 📌 Aprendizado de Docker e AWS
+- 📌 Evolução para práticas de DevOps
 
 ---
 
@@ -71,16 +75,6 @@ Meu objetivo é evoluir como desenvolvedor full stack e, no futuro, atuar també
 | **[Landucci Hair Studio](https://github.com/AfonsoPTZ/Site-Hair-Studio)** | Website desenvolvido para cliente real. | HTML, CSS |
 | **[Sistema de Locadora](https://github.com/AfonsoPTZ/Sistema-de-Gerenciamento-para-Locadora-de-Veiculos)** | Sistema desktop completo para gerenciamento de locadora. | Python, SQLite |
 | **[Quiz de Matemática](https://github.com/AfonsoPTZ/Quiz-Matematica-em-Python)** | Quiz interativo com interface gráfica. | Python |
-
----
-
-## 🚀 Current Focus
-
-- 📌 Desenvolvimento de APIs com Node.js
-- 📌 Integração entre frontend (React) e backend
-- 📌 Boas práticas de versionamento com Git
-- 📌 Aprendizado de Docker e AWS
-- 📌 Evolução para práticas de DevOps
 
 ---
 
