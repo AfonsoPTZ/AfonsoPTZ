@@ -95,6 +95,16 @@ Atualmente, estou direcionando meus estudos para o ecossistema **JavaScript**, c
 
 ---
 
+## 📜 Certifications
+
+<div align="center">
+
+| 🎓 Certificate | 🏢 Institution | 📅 |
+| :--- | :--- | :--- |
+| [🔗 View Certificate](https://hermes.dio.me/certificates/OKOKIQ8R.pdf) | DIO | 2026 |
+
+</div>
+
 ## 📫 Contact
 
 <div align="center">
