@@ -31,7 +31,14 @@ Sou estudante de Engenharia de Software na PUC-PR, apaixonado por tecnologia e d
 
 Tenho experiência prática com **PHP e MySQL** através do projeto acadêmico **OwlSchool**, onde trabalhei com lógica de backend, manipulação de dados e organização de código.
 
-Além da parte técnica, sou uma pessoa **comunicativa**, gosto de **trabalhar em equipe** e estou sempre buscando evoluir — tanto como desenvolvedor quanto como pessoa.
+Além da programação, também desenvolvo habilidades importantes da Engenharia de Software, como:
+
+- 🧩 Levantamento e análise de requisitos  
+- 🗣️ Comunicação com clientes para entender necessidades e propor soluções  
+- 👥 Explicação técnica para equipes (transformando ideias em implementação)  
+- 📊 Modelagem de sistemas e criação de diagramas (UML, estrutura, fluxo)  
+
+Sou uma pessoa **comunicativa**, gosto de **trabalhar em equipe** e estou sempre buscando evoluir — tanto como desenvolvedor quanto como pessoa.
 
 Atualmente, estou direcionando meus estudos para o ecossistema **JavaScript**, com foco em backend, frontend e boas práticas modernas de desenvolvimento.
 
@@ -78,11 +85,12 @@ Atualmente, estou direcionando meus estudos para o ecossistema **JavaScript**, c
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfonsoPTZ&show_icons=true&theme=tokyonight" width="51%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoPTZ&layout=compact&theme=tokyonight" width="46%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AfonsoPTZ&theme=tokyo-night" width="100%"/>
+
 </div>
 
 ---
