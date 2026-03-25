@@ -95,13 +95,13 @@ Atualmente, estou direcionando meus estudos para o ecossistema **JavaScript**, c
 
 ---
 
-## 📜 Certifications
+## 🎓 Courses & Certifications
 
 <div align="center">
 
-| 🎓 Certificate | 🏢 Institution | 📅 |
-| :--- | :--- | :--- |
-| [🔗 View Certificate](https://hermes.dio.me/certificates/OKOKIQ8R.pdf) | DIO | 2026 |
+<a href="https://hermes.dio.me/certificates/OKOKIQ8R.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/DIO-Formação%20GitHub%20Certification-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
