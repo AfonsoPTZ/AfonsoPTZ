@@ -78,10 +78,10 @@ Atualmente, estou direcionando meus estudos para o ecossistema **JavaScript**, c
 
 | 📁 Project | 💡 Description | 🛠️ Tech |
 | :--- | :--- | :--- |
-| **[OwlSchool](#)** | Sistema acadêmico com foco em gestão de tarefas, provas e dados escolares. | PHP, MySQL |
+| **[Investa_IA](https://github.com/AfonsoPTZ/invest.ia)** | Aplicação web focada em organização e inteligência financeira. | Node.js, Express, Prisma, MySQL, React |
+| **[OwlSchool](#)** | Sistema acadêmico com foco em gestão de tarefas, provas e dados escolares. | PHP, MySQL, 	HTML, CSS |
 | **[Landucci Hair Studio](https://github.com/AfonsoPTZ/Site-Hair-Studio)** | Website desenvolvido para cliente real. | HTML, CSS |
-| **[Sistema de Locadora](https://github.com/AfonsoPTZ/Sistema-de-Gerenciamento-para-Locadora-de-Veiculos)** | Sistema desktop completo para gerenciamento de locadora. | Python, SQLite |
-| **[Quiz de Matemática](https://github.com/AfonsoPTZ/Quiz-Matematica-em-Python)** | Quiz interativo com interface gráfica. | Python |
+| **[Sistema de Locadora](https://github.com/AfonsoPTZ/Sistema-de-Gerenciamento-para-Locadora-de-Veiculos)** | Sistema desktop completo para gerenciamento de locadora. | Python, SQLite, TKinter |
 
 ---
 
